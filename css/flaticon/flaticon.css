@@ -1,0 +1,103 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 05/06/2020 09:45
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../../fonts/Flaticon.eot");
+  src: url("../../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../../fonts/Flaticon.woff2") format("woff2"),
+       url("../../fonts/Flaticon.woff") format("woff"),
+       url("../../fonts/Flaticon.ttf") format("truetype"),
+       url("../../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-scholarship:before { content: "\f100"; }
+.flaticon-university:before { content: "\f101"; }
+.flaticon-diploma:before { content: "\f102"; }
+.flaticon-mortarboard:before { content: "\f103"; }
+.flaticon-mortarboard-1:before { content: "\f104"; }
+.flaticon-mortarboard-2:before { content: "\f105"; }
+.flaticon-diploma-1:before { content: "\f106"; }
+.flaticon-education:before { content: "\f107"; }
+.flaticon-big-license:before { content: "\f108"; }
+.flaticon-test:before { content: "\f109"; }
+.flaticon-notebook:before { content: "\f10a"; }
+.flaticon-school-supplies:before { content: "\f10b"; }
+.flaticon-trophy:before { content: "\f10c"; }
+.flaticon-book:before { content: "\f10d"; }
+.flaticon-support:before { content: "\f10e"; }
+.flaticon-book-1:before { content: "\f10f"; }
+.flaticon-trophy-1:before { content: "\f110"; }
+.flaticon-chart:before { content: "\f111"; }
+.flaticon-solar-energy:before { content: "\f112"; }
+.flaticon-layers:before { content: "\f113"; }
+.flaticon-gmo:before { content: "\f114"; }
+.flaticon-biology:before { content: "\f115"; }
+.flaticon-tube:before { content: "\f116"; }
+.flaticon-ambulance:before { content: "\f117"; }
+.flaticon-microscope:before { content: "\f118"; }
+.flaticon-balance:before { content: "\f119"; }
+.flaticon-auction:before { content: "\f11a"; }
+.flaticon-analytics:before { content: "\f11b"; }
+.flaticon-food:before { content: "\f11c"; }
+.flaticon-collaboration:before { content: "\f11d"; }
+.flaticon-team:before { content: "\f11e"; }
+.flaticon-medal:before { content: "\f11f"; }
+.flaticon-experience:before { content: "\f120"; }
+.flaticon-accounting:before { content: "\f121"; }
+.flaticon-management:before { content: "\f122"; }
+.flaticon-laboratory:before { content: "\f123"; }
+.flaticon-chemistry:before { content: "\f124"; }
+.flaticon-piston:before { content: "\f125"; }
+.flaticon-molecule:before { content: "\f126"; }
+.flaticon-virus:before { content: "\f127"; }
+.flaticon-first-aid-kit:before { content: "\f128"; }
+.flaticon-drugs:before { content: "\f129"; }
+.flaticon-medicine:before { content: "\f12a"; }
+.flaticon-mental-health:before { content: "\f12b"; }
+.flaticon-microscope-1:before { content: "\f12c"; }
+.flaticon-global:before { content: "\f12d"; }
+.flaticon-coin:before { content: "\f12e"; }
+.flaticon-stock-market:before { content: "\f12f"; }
+.flaticon-politics:before { content: "\f130"; }
+.flaticon-voting:before { content: "\f131"; }
+.flaticon-school:before { content: "\f132"; }
+.flaticon-book-2:before { content: "\f133"; }
+.flaticon-education-1:before { content: "\f134"; }
+.flaticon-dress:before { content: "\f135"; }
+.flaticon-knowledge:before { content: "\f136"; }
+.flaticon-team-1:before { content: "\f137"; }
+.flaticon-university-1:before { content: "\f138"; }
+.flaticon-degree:before { content: "\f139"; }
+.flaticon-student:before { content: "\f13a"; }
+.flaticon-computer:before { content: "\f13b"; }
+.flaticon-edit:before { content: "\f13c"; }
+.flaticon-target:before { content: "\f13d"; }
+.flaticon-stationery:before { content: "\f13e"; }
+.flaticon-laptop:before { content: "\f13f"; }
+.flaticon-microscope-2:before { content: "\f140"; }
+.flaticon-world-wide-web:before { content: "\f141"; }
+.flaticon-search:before { content: "\f142"; }
+.flaticon-clock:before { content: "\f143"; }
+.flaticon-instagram:before { content: "\f144"; }
+.flaticon-twitter:before { content: "\f145"; }
+.flaticon-youtube:before { content: "\f146"; }
+.flaticon-dribbble:before { content: "\f147"; }
+.flaticon-facebook:before { content: "\f148"; }
